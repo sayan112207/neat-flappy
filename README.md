@@ -1,5 +1,5 @@
 # Optimization of Flappy Bird using NEAT
-This project implements the classic Flappy Bird game using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm, allowing an AI to learn to play the game autonomously. NEAT is a genetic algorithm that evolves neural networks to perform tasks, in this case, playing Flappy Bird.
+This project implements the classic Flappy Bird game using the NEAT (NeuroEvolution of Augmenting Topologies) algorithm along with XOR mechanism, allowing an AI agent to learn to play the game autonomously. NEAT is a genetic algorithm that evolves neural networks to perform tasks, in this case, playing Flappy Bird.
 
 
 # Clone the repository to your local machine:
