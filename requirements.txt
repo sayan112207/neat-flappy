@@ -4,4 +4,4 @@ neat-python
 graphviz
 matplotlib
 visualize
-python3-opencv
+opencv-python
