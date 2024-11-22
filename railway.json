@@ -2,7 +2,7 @@
     "$schema": "https://railway.app/railway.schema.json",
     "build": {
         "builder": "NIXPACKS",
-        "installCommand": "apt-get update && apt-get install -y libgl1"
+        "installCommand": "apt-get update && apt-get install -y libgl1 libglib2.0-0"
     },
     "deploy": {
         "startCommand": "python3 test.py",
