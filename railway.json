@@ -5,7 +5,7 @@
         "installCommand": "apt-get update && apt-get install -y libgl1"
     },
     "deploy": {
-        "startCommand": "python test.py",
+        "startCommand": "python3 test.py",
         "restartPolicyType": "ON_FAILURE",
         "restartPolicyMaxRetries": 10
     }
