@@ -59,9 +59,3 @@ Documentations: Contains abstracts, references, and notes related to the impleme
 
 Visuals: Includes photos, videos, results, graphs, and block diagrams related to the game.
 
-
-
- # Acknowledgments
-This project is based on the implementation of Flappy Bird by sourabhv.
-NEAT algorithm implementation is provided by NEAT-Python.
-
